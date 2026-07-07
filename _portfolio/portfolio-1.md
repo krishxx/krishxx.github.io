@@ -1,7 +1,19 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
+title: "Cognitive Machine Reading (CMR)"
+category: portfolio
+layout: single
+permalink: /portfolio/cmr/
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+**Cognitive Machine Reading (CMR)**
+
+Short: An enterprise-grade document understanding platform combining hybrid AI and OCR to extract structured information from scanned, handwritten, and semi-structured documents at scale.
+
+Highlights:
+
+- Processed 10M+ documents across formats.
+- Hybrid AI + OCR methods improved recognition accuracy by ~40%.
+
+Tech stack: Python, OpenCV, Tesseract, EasyOCR, PDFPlumber, Docker
+
+[Source / Demo](https://github.com/krishxx) (add a link to a repository or demo)
