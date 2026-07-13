@@ -12,7 +12,7 @@
     "profiles": [
       { "network": "LinkedIn", "url": "https://www.linkedin.com/in/srikrix" },
       { "network": "GitHub", "url": "https://github.com/krishxx" },
-      { "network": "Google Scholor", "url": "https://scholar.google.com/citations?hl=en&user=6QLuL4QAAAAJ"}
+      { "network": "Google Scholar", "url": "https://scholar.google.com/citations?hl=en&user=6QLuL4QAAAAJ"}
     ],
     "summary": "Seasoned AI and technology leader with 18+ years of experience in AI-driven product engineering across finance, healthcare, insurance, and telecom. Expertise in Agentic AI, Generative AI, Computer Vision, RAG pipelines, and enterprise AI strategy."
   },
