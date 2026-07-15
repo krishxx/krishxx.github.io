@@ -3,7 +3,7 @@ layout: publication
 title: "Deep Learning Based Sustainable Material Attribution for Apparels"
 authors: "S. Sadula, et al."
 venue: "CASE 2022"
-date: 2022
+date: 2022-06-01
 pdf: /files/deep-learning-sustainable-materials-case2022.pdf
 ---
 
