@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: About
+title: Home
 permalink: /
 ---
 
