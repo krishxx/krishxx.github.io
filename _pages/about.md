@@ -1,8 +1,8 @@
 ---
-layout: splash
+layout: single
 title: Home
 permalink: /
-author_profile: false
+author_profile: true
 ---
 
 # Srikrishna Sadula
