@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: About
-permalink: /about/
+permalink: /
 ---
 
 # Srikrishna Sadula
