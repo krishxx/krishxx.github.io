@@ -22,7 +22,7 @@ repository               : "krishxx/krishxx.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Srikrishna Sadula"
   pronouns         : "He/him"  
   bio              : "Currently working as Senior Principal Data Scientist at ITCInfotech, Hyderabad, Graduated M.Tech CSE from NIT Calicut"
